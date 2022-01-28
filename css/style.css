@@ -1,0 +1,17 @@
+@import "null.css";
+
+.main-text {
+	color: red;
+}
+
+.text {
+	color: blue;
+}
+
+p span {
+	color: darkorange;
+}
+
+[class*="-class"] {
+	color: chartreuse;
+}
